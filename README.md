@@ -41,8 +41,8 @@ Edit
 
 ## 🔗 **Live Demo**
 
-> [View Portfolio Website Here](https://sourabh200401.github.io/portfolio_website)  
-> *(Replace with your GitHub Pages URL once deployed)*
+> https://github.com/sourabh200401/portfolio_website/blob/main/index.html
+
 
 ---
 
